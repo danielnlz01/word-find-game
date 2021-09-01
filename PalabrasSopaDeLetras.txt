@@ -1,0 +1,5 @@
+Cómo se le llama a quien da la clase?;profesor
+Cómo se le llama a quien va a la clase?;estudiante
+Qué clase es esta?;programación
+Qué es único de la humanidad?;pensamiento
+Qué clase es esta?;computación
